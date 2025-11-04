@@ -4,7 +4,7 @@ import pandas as pd
 import requests_cache
 from retry_requests import retry
 from geopy.geocoders import Nominatim
-import openai
+#import openai
 
 
 
